@@ -19,6 +19,12 @@
 
 ---
 
+  * **Code Project / Demo**
+
+    https://youtu.be/VjIOMWaIQ-I    
+
+---
+
   * **Demo Project (1): Products Catalog WebApp**
 
     - Create .NET solution using the clean architecture template
@@ -53,4 +59,4 @@
 
   ### What's Next?
 
-  - ...
+  - **Unit Testing:** Presentation + Demo Project
